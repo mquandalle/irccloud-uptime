@@ -5,7 +5,7 @@ import json
 import requests
 import sys
 import time
-import thread
+import _thread
  
  
 delay = 30
